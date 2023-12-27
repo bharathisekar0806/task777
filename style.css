@@ -1,0 +1,221 @@
+body{
+    background-color: rgb(243, 227, 227);
+    margin-left: 20px;
+    margin-right: 20px;
+    height:2000px;
+}
+.wrapper{
+    margin-inline: 40px;
+    margin-top: 50px;
+}
+
+.call{
+    margin-inline: 50px;
+    margin-left: 550px;
+    margin-top: -60px;
+   
+
+}
+.call1{
+    text-align: center;
+    margin-right: 300px;
+    margin-top:-50px;
+}
+.search
+{
+    margin-inline: 50px;
+    margin-left: 1000px;
+    margin-top: -60px;
+}
+.big
+{
+    margin-left: 1300px;
+    margin-top:-25px ;
+}
+.search input{
+    padding: 10px 20px;
+    width: 300px;
+    border-radius: 60px;
+}
+.p{
+    background-color:darkblue;
+    margin-top: 100px;
+    margin-left: 1px;
+    width: 100%;
+    height:50px;
+    
+}
+
+.p a{
+    color:white;
+    text-decoration: none;
+    margin-left: 80px;
+    font-size: 20px;
+    text-align: justify;
+}
+.signup{
+background-color: yellow;
+color:black;
+float:right;
+margin-top: -25px;
+margin-right: 20px;
+}
+.myaccount{
+    background-color: yellow;
+    color: black;
+    float:right;
+    margin-top: -25px;
+    margin-right: 60px;
+}
+.hotel{
+    margin-top: -16px;
+    position: relative;
+}
+.p2{
+    background-color: darkblue;
+    padding: 10px;
+    width:460px;
+    height:140px;
+    color: white;
+    margin-top:-330px;
+    text-align: justify;
+    margin-left: 800px;
+    position: absolute;
+}
+.h{
+   background-color: darkblue;
+   padding: 10px;
+    width:460px;
+    height:100px;
+    color: white;
+    margin-top:-150px;
+    text-align: justify;
+    margin-left: 800px;
+    position: absolute;
+}
+
+
+.pop{
+    margin-top:80px;
+    } 
+    .hotel1{
+        padding:20px;
+        margin: none;
+        width:440px;
+        height:350px;
+        background-color: white;
+    
+    }
+    .hotel2{
+        
+        padding:20px;
+        margin-left: 500px;
+        margin-top: -390px;
+        width:440px;
+        height:350px;
+        background-color: white; 
+
+    }
+    .hotel3{
+        padding:20px;
+        margin-left: 1000px;
+        margin-top: -390px;
+        width:440px;
+        height:350px;
+        background-color: white; 
+    }
+    .deal1
+    {
+     padding-left: 20px;
+     padding-right: 20px;
+     color: white;
+     }
+     .deal11{
+        margin-left: 120px;
+        margin-top: -250px;
+     }
+     .deal2{
+        padding:20px;
+        margin-left: 700px;
+        margin-top:-260px;
+     }
+     .deal22{
+        color: white;
+        padding:20px;
+        margin-left: 750px;
+        margin-top:-260px;
+        
+     }
+     .deal22 p{
+        margin-left: 300px;
+     }
+     .icon
+     {
+        margin-left: 20px;
+        margin-top: -238px;
+        background-blend-mode:color-dodge;
+     }
+     .icon1{
+        margin-left: 720px;
+        margin-top: -30px;
+        
+     }
+     .text input{
+        margin-left: 5px;
+        padding:20px;
+        margin-top: 350px;
+        width:1410px;
+        
+     }
+     .i{
+        padding: 20px;
+        margin-left: 120px;
+        margin-top: -63px;
+     }
+     .i p{
+        padding: 20px;
+        margin-left: 25px ;
+        margin-top: -48px;
+     }
+     .footer{
+        padding: 20px;
+        
+        width:97%;
+        height:450px;
+        background-color: white; 
+     }
+     .footer h3,p{
+        margin-left: 100px;
+     }
+    
+     .foot{
+        padding:20px;
+        margin-left: 300px;
+        margin-top: -485px;
+     }
+     .foot h3{
+        margin-left: 100px;
+     }
+     .follow{
+        margin-left: 700px;
+        margin-top: -145px;
+        
+     }
+     .offer{
+        width: 300px;
+        height:200px;
+        margin-left: 950px;
+        margin-top: -220px;
+     }
+     .offer input{
+        width:225px;
+        height: 30px;
+     }
+     .subscribe{
+        background-color: darkblue;
+        color: white;
+        float: right;
+        margin-right: none;
+        height: 35px;
+        
+     }
